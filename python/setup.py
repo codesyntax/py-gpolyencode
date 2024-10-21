@@ -5,8 +5,8 @@ try:
 except:
     from distutils.core import setup, Extension
 
-setup(name='GPolyEncode',
-    version='0.1.1',
+setup(name='py-gpolyencode',
+    version='0.2.1',
     description="Google Maps Polyline encoding (pure Python)",
     long_description="Encode line & polygon coordinates for use in Google Maps.",
     author='Robert Coup',
