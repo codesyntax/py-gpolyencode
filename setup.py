@@ -7,7 +7,7 @@ except:
 
 setup(
     name="py-gpolyencode",
-    version="0.2.1",
+    version="0.2.2.dev0",
     description="Google Maps Polyline encoding (pure Python)",
     long_description="Encode line & polygon coordinates for use in Google Maps.",
     author="Robert Coup",
